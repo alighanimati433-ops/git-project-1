@@ -4,12 +4,12 @@
     box-sizing: border-box;
 }
 :root {
-    --color_C90000:#541313;
+    --color_C90000:#c09c9c;
     --color_7D7C7C:#7D7C7C;
-    --color_504F4F:#504F4F;
+    --color_504F4F:#ff0000;
     --color_323232:#323232;
     --color_FFC300:#987f2f;
-    --color_FFF6A3:#FFF6A3;
+    --color_FFF6A3:#ebd400;
     --color_E3E3E3:#E3E3E3;
     --color_F1F1F1:#F1F1F1;
 }
